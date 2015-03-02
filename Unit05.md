@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Martin Heidegger** <span id="5"></span> 
 *Martin Heidegger’s (1889-1976) extensive and illuminating meditations
 on what he described as the ontological “question of being” established

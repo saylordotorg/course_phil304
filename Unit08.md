@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Albert Camus** <span id="8"></span> 
 *Albert Camus (1913–1960) was an Algerian writer and intellectual who
 refused to be called a philosopher because he did not believe that human

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Jean-Paul Sartre** <span id="6"></span> 
 *Jean-Paul Sartre (1905–1980) is the public face of existentialism. His
 works, both fictional and philosophical, resoundingly affirm the

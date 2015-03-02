@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Fyodor Dostoevsky** <span id="3"></span> 
 *Fyodor Mikhailovich Dostoevsky (1821–1881) was a Russian novelist,
 journalist, and essayist whose literary works are foundational texts in

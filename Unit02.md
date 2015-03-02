@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Søren Kierkegaard** <span id="2"></span> 
 *Søren Aabye Kierkegaard (1813–1855) was a Danish Christian philosopher,
 theologian, and social critic, widely considered a founding figure in

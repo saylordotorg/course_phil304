@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Blaise Pascal** <span id="1"></span> 
 *Since the term* existentialism *was not used to describe a
 philosophical movement until the twentieth century, it is anachronistic

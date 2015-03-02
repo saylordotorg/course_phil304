@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Friedrich Nietzsche** <span id="4"></span> 
 *An unapologetic critic of culture, society, religion, and philosophical
 dogma (philosophical beliefs that his predecessors and contemporaries

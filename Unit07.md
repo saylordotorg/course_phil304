@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL304: Existentialism"
+course_description: "This course examines the concrete existence of individual human beings. Features works by Blaise Pascal, Søren Kierkegaard, Fyodor Dostoevsky, Friedrich Nietzsche, Martin Heidegger, Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Simone de Beauvoir** <span id="7"></span> 
 *A novelist, social critic, and philosopher, Simone de Beauvoir
 (1908–1986) extended Sartre’s existentialism to the realm of the social
