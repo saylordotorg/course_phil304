@@ -121,6 +121,7 @@ relevant notes you may have taken on the topic.*
     displayed on the webpage above.
 
 **3.2 Dostoevsky on Revolution** <span id="3.2"></span> 
+
 **3.2.1 Refusing Our Limitations** <span id="3.2.1"></span> 
 -   **Reading: Academia.edu: Marco Ceccarelli’s “Revolutionary
     Self-Fulfillment? Nihilism, Terrorism and Self-Destruction in Fyodor
@@ -128,7 +129,11 @@ relevant notes you may have taken on the topic.*
     Link: Academia.edu: Marco Ceccarelli’s [“Revolutionary
     Self-Fulfillment? Nihilism, Terrorism and Self-Destruction in Fyodor
     Dostoyevsky’s The
+<<<<<<< HEAD
     Devils”](http://www.academia.edu/1713003/Revolutionary_Self-Fulfilment_Nihilism_Terrorism_and_Self-destruction_in_Fyodor_Dostoyevsky_s_The_Devils) (HTML)  
+=======
+    Devils”](http://www.academia.edu/1713003/Revolutionary_Self-Fulfilment_Nihilism_Terrorism_and_Self-destruction_in_Fyodor_Dostoyevsky_s_The_Devils) (HTML)  
+>>>>>>> 00626cf0092d2cfbb64cd0ab69cd806d2be956d7
       
      Instructions: Please click on the link above and read this article.
     As you read, jot down definitions of *nihilism*, *terrorism*, and
