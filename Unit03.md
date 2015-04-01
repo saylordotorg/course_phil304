@@ -121,7 +121,7 @@ relevant notes you may have taken on the topic.*
     Link: Academia.edu: Marco Ceccarelli’s [“Revolutionary
     Self-Fulfillment? Nihilism, Terrorism and Self-Destruction in Fyodor
     Dostoyevsky’s The
-    Devils”](http://uwa.academia.edu/MarcoCeccarelli/Talks/70977/Revolutionary_Self-Fulfilment_Nihilism_Terrorism_and_Self-destruction_in_Fyodor_Dostoyevskys_The_Devils) (HTML)  
+    Devils”](http://www.academia.edu/1713003/Revolutionary_Self-Fulfilment_Nihilism_Terrorism_and_Self-destruction_in_Fyodor_Dostoyevsky_s_The_Devils) (HTML)  
       
      Instructions: Please click on the link above and read this article.
     As you read, jot down definitions of *nihilism*, *terrorism*, and
