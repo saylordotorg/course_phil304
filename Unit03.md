@@ -121,6 +121,7 @@ relevant notes you may have taken on the topic.*
     displayed on the webpage above.
 
 **3.2 Dostoevsky on Revolution** <span id="3.2"></span> 
+
 **3.2.1 Refusing Our Limitations** <span id="3.2.1"></span> 
 -   **Reading: Academia.edu: Marco Ceccarelli’s “Revolutionary
     Self-Fulfillment? Nihilism, Terrorism and Self-Destruction in Fyodor
